@@ -1,0 +1,161 @@
+/* FOR UNORDERED LISTS */
+
+/* ul{
+    list-style-type: circle;
+} */
+
+/* FOR ORDERED LISTS */
+
+/* ol{
+    list-style-type: lower-alpha;
+} */
+
+
+/* IMAGES FOR BULLETS */
+
+/* ul{
+    list-style-image: url(./Assets/Apple-icon.png)
+} */
+
+
+/* LISTS STYLE POSITIONS */
+
+/* .illuminations{
+    list-style-position: outside;
+}
+
+.season{
+    list-style-position: inside;
+} */
+
+
+/* LISTS SHORT HAND */
+
+/* ul{
+    list-style: inside circle;
+} */
+
+
+/* TABLE PROPERTIES */
+
+/* table{
+    width: 600px;
+    
+    padding: 20px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-size: large;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    text-align: left;
+}
+
+table, td, td{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
+table{
+    background-color: wheat;
+}
+
+tr:hover{
+    background-color: blue;
+    cursor: progress;
+}
+td{
+    padding: 10px;
+}
+th{
+    font-style: bolder;
+    color: blue;
+}
+
+.even{
+    background-color: grey;
+    color: white;
+} */
+
+
+
+/* EMPTY CELLS */
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;}
+    table.one {
+    empty-cells: show;}
+    table.two {
+    empty-cells: hide;}
+
+    td{
+        empty-cells: show;
+    } */
+
+
+    /* BORDER SPACING */
+    
+    /* td {
+        border: 1px solid #0088dd;
+        padding: 15px;}
+        table.one {
+        empty-cells: show;}
+    
+    table{
+        border-collapse: collapse;
+    } */
+
+
+
+    /* STYLING FORMS */
+
+    /* #ln{
+        margin-top: 20px;
+    }
+
+    input{
+            color: red;
+            background-color: wheat;
+            border: 3px solid red;
+            border-radius: 2px round;
+            outline: none;
+    }
+    input:hover{
+        background-color: aqua;
+    } */
+
+    /* #Email{
+        background-image:  url('./Assets/emai-icon.png');
+        background-repeat: no-repeat;
+        margin-bottom: 10px;
+        
+    }
+    #GitHub{
+        background-image: url('./Assets/github-icon.png');
+        background-repeat: no-repeat;
+    } */
+
+
+    /* STYLING FIELDSET AND LEGEND */
+
+/* 
+    fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;}
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;} */
+
+
+        /* CURSOR STYLES */
+
+        #submit-btn:hover{
+            cursor: wait;
+
+        }
